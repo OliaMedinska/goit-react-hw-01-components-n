@@ -1,4 +1,4 @@
-import StatisticsItem from "./StatisticsItem";
+import StatisticsItem from "../StatisticsItem/StatisticsItem";
 
 const Statistics = ({title, stats}) => {
     return (
