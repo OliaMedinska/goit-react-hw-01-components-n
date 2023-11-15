@@ -1,3 +1,4 @@
+
 import StatisticsItem from "../StatisticsItem/StatisticsItem";
 
 const Statistics = ({title, stats}) => {

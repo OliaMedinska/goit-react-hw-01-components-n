@@ -1,3 +1,4 @@
+
 import FriendsItem from "../FriendsItem/FriendsItem";
 
 const FriendList = ({friends}) => {

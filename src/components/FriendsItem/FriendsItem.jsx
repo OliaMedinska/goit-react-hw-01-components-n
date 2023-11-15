@@ -1,3 +1,4 @@
+
 const FriendsItem = ({avatar, name, isOnline}) => {
     const statusClassName = isOnline ? 'status online' : 'status';
 

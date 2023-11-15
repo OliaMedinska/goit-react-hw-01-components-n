@@ -1,3 +1,4 @@
+
 const StatisticsItem = ({label, percentage}) => {
     return (
         <li className="item">
